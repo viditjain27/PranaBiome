@@ -1,4 +1,4 @@
-# 🌿 PranaBiome — Your Personal Gut Health Companion
+# 🌿 PranaBiome - Your Personal Gut Health Companion
 
 > *"Built with Indian food wisdom, powered by modern AI."*
 
