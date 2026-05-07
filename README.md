@@ -2,6 +2,8 @@
 
 > *"Built with Indian food wisdom, powered by modern AI."*
 
+🚀 **Live Demo:** [pranabiome-app.vercel.app](https://pranabiome-app.vercel.app)
+
 As a **Bioinformatics student**, I've always been fascinated by the gut microbiome, like how the trillions of bacteria that shape our digestion, immunity, and even mood. But most gut health apps are built around Western diets, with zero awareness of the fermented foods Indians have eaten for centuries.
 
 **PranaBiome bridges that gap.**
@@ -29,10 +31,10 @@ Log daily meals from a curated Indian food database. Probiotic-rich foods - Idli
 
 ### 💚 Gut Health Score Dashboard
 A 4-axis scoring system that evaluates your gut health dynamically across:
-- **Gut Health** — quality of foods logged
-- **Probiotic Intake** — frequency of fermented food consumption
-- **Diet Balance** — nutritional variety and spread
-- **Consistency** — logging streak and regularity
+- **Gut Health** - quality of foods logged
+- **Probiotic Intake** - frequency of fermented food consumption
+- **Diet Balance** - nutritional variety and spread
+- **Consistency** - logging streak and regularity
 
 ### 🌟 21-Day Gut Shuddhi Sankalp
 A gamified 21-day gut health challenge inspired by the concept of *Sankalp* (commitment). Earn cultural badges like **Curd Cadet**, **Spice Scholar**, and **Gut Guru** as you build healthy habits.
@@ -78,7 +80,7 @@ The 21-day Sankalp tracks your streak. Hit milestones, earn badges, and build a 
 | Language | TypeScript |
 | Fonts | Inter + Rozha One (Devanagari support) |
 | AI / Vision | Google Gemini API |
-| Platform | Web (localhost) |
+| Deployment | Vercel |
 
 ---
 
@@ -97,6 +99,12 @@ PranaBiome is a **decision-support tool**, not a medical or diagnostic applicati
 
 ---
 
+## 🙏 Acknowledgements
+
+- Inspired by centuries of Indian fermented food traditions like Kanji, Idli, Dosa, Achaar, Chaas
+- AI coaching powered by **Google Gemini API**
+
+---
 
 ## 👨‍💻 Author
 
